@@ -1,2 +1,3 @@
 # AluraBooks
-Projeto criado no curso de HTML e CSS: responsividade com mobile-first
+
+link do figma: https://www.figma.com/file/sSMbIqKaGBd66Y8roxTk2p/AluraBooks?node-id=37%3A94&t=xsBkf56QrHFTXhwz-0
